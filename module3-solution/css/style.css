@@ -1,0 +1,25 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+#TheNav {
+  border: solid black 2px;
+  padding-bottom: 0;
+  height: 6em;
+}
+#menu {
+  padding: 0;
+  margin-top: 1em;
+}
+#box {
+  padding: 0;
+}
+#chicken {
+  margin-right: 4em;
+  margin-left: 4em;
+}
+#row-chicken {
+  padding: 2em;
+  margin: 4em;
+}
